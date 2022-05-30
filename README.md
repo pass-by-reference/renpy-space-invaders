@@ -6,7 +6,7 @@ A space invaders game that is embedded in renpy
 
 - Place the `space_invaders` directory in your projects directory for renpy.
 
-To do find/change your renpy project directory
+To find/change your renpy project directory
 
 1. Click preferences in your renpy launcher
 
